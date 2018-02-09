@@ -78,3 +78,7 @@ npm run dev ATUALIZAR MODIFICAÇÕES
 npm run watch ATUALIZA MODIFICAÇÕES AUTOMATICAMENTE
 
 npm i vuex --save-dev INSTALA O VUEX NO PROJETO
+
+npm i INSTALA O NODE JS NO PROJETO LARAVEL (tem que estar dentro da pasta do projeto)
+
+composer PARA SABER SE A MÁQUINA TEM O COMPOSER
