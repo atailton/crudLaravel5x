@@ -56,3 +56,25 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Comandos importantes
+
+php artisan make:auth -> ATIVA SISTEMA DE LOGIN DO LARAVEL
+
+php artisan migrate -> CRIA TABELAS NO BANCO DE DADOS
+
+php artisan serve -> INICIA PROJETO NO LOCALHOST
+
+php artisan make:controller Pasta/NomeController --resource -> CRIA UM CONTROLER
+
+php artisan make:model Nome CADA TABELA TEM QUE TER UM MODEL E O NOME DO MODEL TEM QUE SE O NOME DA TABELA
+
+composer create-project --prefer-dist laravel/laravel nomeProjeto "5.5.*" CRIA NOVO PROJETO
+
+NODE JS
+
+npm run dev ATUALIZAR MODIFICAÇÕES
+
+npm run watch ATUALIZA MODIFICAÇÕES AUTOMATICAMENTE
+
+npm i vuex --save-dev INSTALA O VUEX NO PROJETO
